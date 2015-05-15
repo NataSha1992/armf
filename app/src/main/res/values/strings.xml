@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ARMF</string>
+    <string name="hello_world">Hello world!</string>
+
+
+<string-array name="catlist">
+    <item>Барсик</item>
+    <item>Мурзик</item>
+    <item>Васька</item>
+    <item>Рыжик</item>
+</string-array>
+
+</resources>
